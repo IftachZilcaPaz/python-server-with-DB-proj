@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Iftach Zilca Paz</h1>
-<h3 align="left">A Devops Engineer</h3>
+<h1 align="left">Hi 👋, I'm Iftach</h1>
+<h3 align="left">Im A Devops Engineer ...</h3>
 
 <br/>
 
@@ -7,7 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iftach-z-19931491/) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+
+<br/>
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iftachzilcapaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iftachzilcapaz&theme=dark&hide_border=false)<br/>
