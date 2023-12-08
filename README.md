@@ -2,7 +2,7 @@
 <h3 align="left">A Devops Engineer From Israel</h3>
 
 
-<img align="right" alt="Devops" width="100" src="[https://miro.medium.com/v2/resize:fit:4800/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif)"/>
+<img align="right" alt="Devops" width="100" src="https://dribbble.com/shots/4502902-DevOps-engineer-animation"/>
 
 
 <h3 align="left">Connect with me:</h3>
