@@ -2,7 +2,7 @@
 <h3 align="left">A Devops Engineer From Israel</h3>
 
 
-<img align="center" alt="Devops" width="400" src="https://iconscout.com/lottie-animation/professional-male-devops-8872610/>
+<img align="center" alt="Devops" width="400" src="https://iconscout.com/lottie-animation/professional-male-devops-8872610"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftachzilcapaz" alt="iftachzilcapaz" /></a> </p>
 
