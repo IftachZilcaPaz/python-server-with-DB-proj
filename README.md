@@ -2,7 +2,7 @@
 <h3 align="left">A Devops Engineer From Israel</h3>
 
 
-<img align="center" alt="Devops" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fantsitvlad.medium.com%2Fdevops-101-all-kind-of-you-need-to-know-about-devops-5bfca8656987&psig=AOvVaw1_yKjVnqUZ4x2FRUwQXJku&ust=1702144008800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjal9azgIMDFQAAAAAdAAAAABAD"/>
+<img align="center" alt="Devops" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fantsitvlad.medium.com%2Fdevops-101-all-kind-of-you-need-to-know-about-devops-5bfca8656987&psig=AOvVaw1_yKjVnqUZ4x2FRUwQXJku&ust=1702144008800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjal9azgIMDFQAAAAAdAAAAABAD](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif)"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftachzilcapaz" alt="iftachzilcapaz" /></a> </p>
 
