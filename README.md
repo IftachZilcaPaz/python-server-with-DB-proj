@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://thecloudlegion.com/images/devops.gif)](https://rishavchanda.io)
+![image](https://github.com/IftachZilcaPaz/ci_cd_github_action_aws/assets/151572520/c4b1a850-020a-42af-942a-37f0a8796a49)
 
 ---
 
