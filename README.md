@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 
 
-
+<br/><br/><br/><br/>
 # Lots-Of-Trips: Automated Public Transportation System
 
 This is the final project for the Python Course. Lots-Of-Trips is an automated public transportation system built as a client-server application. Clients send requests to the server and receive relevant responses, ensuring the satisfaction of each request.
